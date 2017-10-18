@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html>
 <head>
@@ -12,4 +13,20 @@
 	
 
 </body>
+=======
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<style>
+		body{
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
+	
+
+</body>
+>>>>>>> 5c6a8f1ec852b09cbe6be197c6cd722e8482fa38
 </html>
